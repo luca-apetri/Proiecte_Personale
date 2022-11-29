@@ -1,0 +1,4 @@
+1;Baltagul;Mihail sadoveanu;
+2;Amintiri din Copilarie;Ion Creanga;
+3;1984;George Orwell;
+4;Luceafarul;Mihai Eminescu;

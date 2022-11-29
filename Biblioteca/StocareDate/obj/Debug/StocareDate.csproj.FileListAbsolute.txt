@@ -1,0 +1,9 @@
+C:\Users\Machine\source\repos\Biblioteca\StocareDate\bin\Debug\StocareDate.dll
+C:\Users\Machine\source\repos\Biblioteca\StocareDate\bin\Debug\StocareDate.pdb
+C:\Users\Machine\source\repos\Biblioteca\StocareDate\bin\Debug\LibrarieClase.dll
+C:\Users\Machine\source\repos\Biblioteca\StocareDate\bin\Debug\LibrarieClase.pdb
+C:\Users\Machine\source\repos\Biblioteca\StocareDate\obj\Debug\StocareDate.csproj.AssemblyReference.cache
+C:\Users\Machine\source\repos\Biblioteca\StocareDate\obj\Debug\StocareDate.csproj.CoreCompileInputs.cache
+C:\Users\Machine\source\repos\Biblioteca\StocareDate\obj\Debug\StocareDate.csproj.CopyComplete
+C:\Users\Machine\source\repos\Biblioteca\StocareDate\obj\Debug\StocareDate.dll
+C:\Users\Machine\source\repos\Biblioteca\StocareDate\obj\Debug\StocareDate.pdb

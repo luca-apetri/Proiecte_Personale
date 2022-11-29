@@ -1,0 +1,6 @@
+1;Apetri;Luca;
+2;Sorodoc;Claudiu;
+3;Ailioaie;Daniel;
+4;Dragoi;Andrei;
+5;Hurjui;Catalin;
+6;Apetri;Constantin;

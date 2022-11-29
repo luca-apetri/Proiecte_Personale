@@ -1,0 +1,16 @@
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\bin\Debug\InterfataUtilizator_WindowsForms.exe.config
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\bin\Debug\InterfataUtilizator_WindowsForms.exe
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\bin\Debug\InterfataUtilizator_WindowsForms.pdb
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\bin\Debug\LibrarieClase.dll
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\bin\Debug\StocareDate.dll
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\bin\Debug\LibrarieClase.pdb
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\bin\Debug\StocareDate.pdb
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.Form1.resources
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.Login.resources
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.Properties.Resources.resources
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.csproj.GenerateResource.cache
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.csproj.CopyComplete
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.exe
+C:\Users\Machine\source\repos\Biblioteca\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.pdb
