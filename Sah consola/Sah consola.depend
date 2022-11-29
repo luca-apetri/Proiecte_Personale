@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1654593189 source:c:\users\machine\desktop\sah c++\sah consola\src\tabla.cpp
+	"tabla.h"
+
+1654593153 c:\users\machine\desktop\sah c++\sah consola\include\tabla.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1654608325 source:c:\users\machine\desktop\sah c++\sah consola\main.cpp
+	<iostream>
+	"piesa.h"
+	"tabla.h"
+	<string.h>
+	<stdlib.h>
+
+1654608325 source:c:\users\machine\desktop\sah c++\sah consola\src\piesa.cpp
+	"piesa.h"
+
+1654598254 c:\users\machine\desktop\sah c++\sah consola\include\piesa.h
+	<tabla.h>
+
+1653326606 source:c:\users\machine\desktop\sah c++\sah consola\src\rege.cpp
+	"rege.h"
+
+1653326606 c:\users\machine\desktop\sah c++\sah consola\include\rege.h
+	<piesa.h>
+
+1655854720 source:c:\users\machine\desktop\scoala\sah c++\sah consola\main.cpp
+	<iostream>
+	"piesa.h"
+	"tabla.h"
+	<string.h>
+	<stdlib.h>
+
+1654598254 c:\users\machine\desktop\scoala\sah c++\sah consola\include\piesa.h
+	<tabla.h>
+
+1655407120 c:\users\machine\desktop\scoala\sah c++\sah consola\include\tabla.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1655861572 source:c:\users\machine\desktop\scoala\sah c++\sah consola\src\piesa.cpp
+	"piesa.h"
+
+1653326606 source:c:\users\machine\desktop\scoala\sah c++\sah consola\src\rege.cpp
+	"rege.h"
+
+1653326606 c:\users\machine\desktop\scoala\sah c++\sah consola\include\rege.h
+	<piesa.h>
+
+1655860744 source:c:\users\machine\desktop\scoala\sah c++\sah consola\src\tabla.cpp
+	"tabla.h"
+
